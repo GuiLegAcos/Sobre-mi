@@ -5,15 +5,14 @@
 
 <p align="center">
   <a href="mailto:guillermolegac@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-guillermolegac%40gmail.com-informational?logo=gmail"></a>
-  <a href="https://github.com/TU_USUARIO"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-TU__USUARIO-black?logo=github"></a>
+  <a href="https://github.com/GuiLegAcos"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GuiLegAcos-black?logo=github"></a>
 </p>
 
 ---
 
-## 🚀 Stack principal
+## 🚀 Lenguajes de programación
 
 <p align="center">
-  <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/>
@@ -21,23 +20,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/>
 </p>
 
+---
+
+## 🎨 Frontend
+
 <p align="center">
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React / React Native"/>
 </p>
 
+---
+
+## 📱 Desarrollo Mobile
+
 <p align="center">
-  <!-- Mobile / IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="Xcode (iOS)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="48" alt="iOS / Apple"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="Xcode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="48" alt="iOS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48" alt="Android Studio"/>
 </p>
 
+---
+
+## ⚙️ Backend & Herramientas
+
 <p align="center">
-  <!-- Backend / Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="Spring (Backend)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-Control%20de%20versiones-orange?logo=git" height="24" alt="Git"/>
@@ -64,8 +72,8 @@
 
 ## 📬 Contacto
 - ✉️ Email: [guillermolegac@gmail.com](mailto:guillermolegac@gmail.com)  
-- 🐙 GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)  
+- 🐙 GitHub: [@GuiLegAcos](https://github.com/GuiLegAcos)  
 
 ---
 
-<p align="center">Hecho con ❤️ y muchas ganas de seguir aprendiendo y creando.</p>
+<p align="center">Hecho con ❤️, café ☕ y ganas de seguir aprendiendo y creando.</p>
